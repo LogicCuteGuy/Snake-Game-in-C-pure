@@ -10,5 +10,5 @@ clang snake.c -o snake.exe -lUser32
 ```
 ### Using `gcc`:
 ```bash
-gcc -std=c99 snake.c -o snake.exe
+gcc -std=c99 snake.c -o snake.exe -lUser32
 ```
